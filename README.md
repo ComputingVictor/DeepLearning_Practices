@@ -40,7 +40,7 @@ In this practice we will have to obtain the highest score with the CIFAR-100 dat
 
 Víctor Viloria Vázquez - <victor.viloria@cunef.edu>
 
-Project Link: <https://github.com/ComputingVictor/TimeSeriesForecasting_Practices>
+Project Link: <https://github.com/ComputingVictor/DeepLearning_Practices>
 
 LinkedIn - <https://www.linkedin.com/in/vicviloria/>
 
